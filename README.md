@@ -20,7 +20,7 @@ yellow color ---at which postion the algorithm is current present at <br />
 <h5> Amit Yadav </h5>
 <h5> Anand Ranjan </h5>
 
-
+<h2> App images </h2>
 ![Screenshot from 2021-02-28 17-26-32](https://user-images.githubusercontent.com/48708220/109417835-41042c00-79eb-11eb-89ed-8116f3882924.png)
 ![Screenshot from 2021-02-28 17-26-24](https://user-images.githubusercontent.com/48708220/109417836-42cdef80-79eb-11eb-9529-483e6a91f4e5.png)
 ![Screenshot from 2021-02-28 17-26-02](https://user-images.githubusercontent.com/48708220/109417838-43ff1c80-79eb-11eb-926c-fb7423e0f7e8.png)
