@@ -17,6 +17,8 @@ red color   ----processing the block <br />
 yellow color ---at which postion the algorithm is current present at <br /> 
 <br />
 <h3>Contributors</h3>
+<h5> Amit Yadav </h5>
+<h5> Anand Ranjan </h5>
 
 
 ![Screenshot from 2021-02-28 17-26-32](https://user-images.githubusercontent.com/48708220/109417835-41042c00-79eb-11eb-89ed-8116f3882924.png)
